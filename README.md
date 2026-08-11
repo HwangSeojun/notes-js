@@ -2,3 +2,4 @@
 js project
 - `unique` helper
 - `reverse` helper
+- `chunk` helper
